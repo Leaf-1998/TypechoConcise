@@ -2,7 +2,7 @@
 /**
  * 这是 基于 Typecho 0.9 默认皮肤修改的
  * 
- * @package Typecho TTT
+ * @package Concise
  * @author Leaf
  * @version 1.0
  * @link http://leafweb.net
